@@ -16,9 +16,10 @@ Each successful round increases the sequence length, making the game progressive
 ## Hardware
 
 * Arduino Uno R3
-* 4 LEDs
+* 4 LEDs (blue, red, yellow, and green; in that order)
 * 4 push buttons
-* 220Ω resistors
+* 220Ω resistors for (LED 1 and LED 2)
+* 330Ω resistors for (LED 3 and LED 4)
 * Passive buzzer
 * Breadboard
 * Jumper wires
